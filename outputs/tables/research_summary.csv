@@ -1,0 +1,2 @@
+selected_pair_y,selected_pair_x,train_start,train_end,test_start,test_end,train_observations,test_observations,train_spread_adf_pvalue,test_spread_adf_pvalue_descriptive,q_alpha,q_beta,r,initial_alpha,initial_beta,entry_z,exit_z,stop_z,max_holding_days,transaction_cost_bps_per_leg,slippage_bps_per_leg,signal_execution_lag_bars,max_abs_beta
+INFY.NS,TCS.NS,2018-01-01,2022-11-22,2022-11-23,2024-12-31,1208,519,1.3543801660236504e-16,1.4864702057353936e-07,0.0001,1e-06,0.005954602134515115,-3.8999164498134453,1.3913039913794865,2.0,0.5,3.0,60,5.0,5.0,1,5.0
